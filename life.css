@@ -1,0 +1,8 @@
+.td {
+    width: 30px;
+    height: 30px;
+}
+
+.alive {
+    background-color: blue;
+}
